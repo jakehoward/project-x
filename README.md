@@ -1,18 +1,14 @@
 # project-x
 
-A, as yet undecided, toy project to learn some new technology, it should be:
+A, simple microblogging platform.
 
-- end to end (database -> server -> browser)
-- simple
-- fun
+## Stage 1: Wire the technologies up end to end
 
-## Ideas
-
-1. A game (like hangman) that keeps track of scores
-1. A todo list
-1. A microblogging platform (user uploads a post, then everyone can read it)
+1. When you visit localhost:<port>/, you see a message that has been served from the database.
 
 ## Technologies
+
+To be decided
 
 Client:
 
