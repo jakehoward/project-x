@@ -5,14 +5,15 @@ Exploring data sets and building machine learning models.
 ## Technologies
 
 - Python3
-  - pandas (essential) [absolute beginners tutorial](https://hackernoon.com/intro-to-pandas-1-an-absolute-beginners-guide-to-machine-learning-and-data-science-a1fed3a6f0f3) [official documentation](https://pandas.pydata.org/pandas-docs/stable/)
+  - pandas (essential) [absolute beginners tutorial](https://hackernoon.com/intro-to-pandas-1-an-absolute-beginners-guide-to-machine-learning-and-data-science-a1fed3a6f0f3) -- [official documentation](https://pandas.pydata.org/pandas-docs/stable/)
   - numpy (advanced)
   - matplotlib (advanced)
   - sklearn (machine learning essential)
-- Jupyter notebook (essential) [getting started tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/) [official documentation](https://jupyter-notebook.readthedocs.io/en/stable/)
+- Jupyter notebook (essential) [getting started tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/) -- [official documentation](https://jupyter-notebook.readthedocs.io/en/stable/)
 
 # DO NOT INSTALL ANACONDA - whatever a tutorial tells you
 - It's a one way ticket to making an unmanageable python environment [xkcd](https://xkcd.com/1987/)
+- just run `pip3 install -U jupyter matplotlib numpy pandas`
 
 ### Student alcohol data key
 
